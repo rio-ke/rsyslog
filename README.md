@@ -13,3 +13,5 @@ sudo netstat -tulnp | grep rsyslog
 _Reference_
 
 [rsyslog install and configuration](https://kifarunix.com/setup-rsyslog-server-on-ubuntu-20-04/)
+
+[**rsyslog_to_wazuh**](https://wazuh.com/blog/how-to-configure-rsyslog-client-to-send-events-to-wazuh/)
